@@ -1,8 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chiqo Nanda</h1>
 
 ## About Me
 I'm Chiqo, a Information System student passionate about software development, data analysis, and digital transformation.  
 I enjoy learning new technologies, building projects, and collaborating with others.  
+<img width="864" height="531" alt="image" src="https://github.com/user-attachments/assets/b39eacd3-49bf-4e01-bfc8-cdc026d3b6a0" />
 
 
 <!--

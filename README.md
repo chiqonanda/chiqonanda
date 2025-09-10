@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## About Me
+I'm Chiqo, a Information System student passionate about software development, data analysis, and digital transformation.  
+I enjoy learning new technologies, building projects, and collaborating with others.  
+
+
 <!--
 **chiqonanda/chiqonanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

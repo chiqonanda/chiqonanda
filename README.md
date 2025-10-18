@@ -5,7 +5,7 @@ I'm Chiqo Nanda Rial PRatama, an Information System at Mulawarman University stu
 I enjoy learning new technologies, building projects, and collaborating with others.  
 
 
-<img width="500" height="359" alt="image" src="https://github.com/user-attachments/assets/0d95076f-475d-46ed-b1de-02271b7b943c" />
+<h1 align="center" ><img width="500" height="359" alt="image" src="https://github.com/user-attachments/assets/0d95076f-475d-46ed-b1de-02271b7b943c" />
 
 
 

@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chiqo Nanda</h1>
 
 ## About Me
-I'm Chiqo, a Information System student passionate about software development, data analysis, and digital transformation.  
+I'm Chiqo Nanda Rial PRatama, an Information System at Mulawarman University student passionate about software development, data analysis, and digital transformation.  
 I enjoy learning new technologies, building projects, and collaborating with others.  
+
+
+<img width="500" height="359" alt="image" src="https://github.com/user-attachments/assets/0d95076f-475d-46ed-b1de-02271b7b943c" />
 
 
 
